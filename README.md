@@ -1,6 +1,6 @@
 # Spidr Design Air Fryer Interest Form
 
-This is a fictional interest form built for Spidr Design’s Full-Stack Software Engineer (Entry-Level) coding challenge.
+This is a fictional interest form built for Spidr Design’s Full-Stack Software Engineer coding challenge.
 
 ---
 
